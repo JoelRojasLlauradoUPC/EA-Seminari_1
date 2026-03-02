@@ -42,3 +42,13 @@ Ejecutar JS
 ```
 node main.js
 ```
+
+## Materials Consultats
+- Els disponibles a Atenea.
+- Ús de reduce, filter i map: https://stackoverflow.com/questions/55098746/reduce-vs-filter-and-map.
+- Com fer servir l'operador spread: https://stackoverflow.com/questions/62131936/using-the-spread-operator-on-an-array-with-objects.
+
+## Detall d'ús de la IA generativa
+No s'ha utilitzat IA generativa durant el desenvolupament del codi. No obstant, si s'ha fet servir l'IA generativa per fer una revisió final de l'exercici un cop el codi ja funcionava per tal d'obtenir suggerències sobre aspectes de millora.
+
+Es van obtenir com a aspectes de millora suggerits: Millorar el control d'errors, separar la lògica en funcions reutilitzables i validació de les dades. Tanmateix, dins el context acotat de l'exercici no es va considerar necessari i en conseqüència no es van implementar en la versió entregada.
